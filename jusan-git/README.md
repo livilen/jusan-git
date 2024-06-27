@@ -1,3 +1,5 @@
+Скрипт username.sh выводит мое имя и фамилию
+
 # stepik-id-printer
 ___
 
